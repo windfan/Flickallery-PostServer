@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "flickr-urls": "0.0.0",
-    "node-flickr": "^1.0.0"
+    "http": "0.0.0",
+    "node-flickr": "^1.0.0",
+    "request": "^2.67.0"
   }
 }
