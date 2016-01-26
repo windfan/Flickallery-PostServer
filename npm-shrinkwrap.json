@@ -1,0 +1,16 @@
+{
+  "name": "postserver",
+  "version": "1.0.0",
+  "dependencies": {
+    "flickr-urls": {
+      "version": "0.0.0",
+      "from": "flickr-urls@*",
+      "resolved": "https://registry.npmjs.org/flickr-urls/-/flickr-urls-0.0.0.tgz"
+    },
+    "node-flickr": {
+      "version": "1.0.0",
+      "from": "node-flickr@*",
+      "resolved": "https://registry.npmjs.org/node-flickr/-/node-flickr-1.0.0.tgz"
+    }
+  }
+}
