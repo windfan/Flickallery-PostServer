@@ -1,0 +1,14 @@
+{
+  "name": "postserver",
+  "version": "1.0.0",
+  "description": "A server to regularly get data from flickr to post to Flickallery pub/sub server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tzu-Hao Huang",
+  "license": "MIT",
+  "dependencies": {
+    "node-flickr": "^1.0.0"
+  }
+}
